@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/skyrimer/Base-Apparel-coming-soon-page.git](https://github.com/skyrimer/Base-Apparel-coming-soon-page.git)
-- Live Site URL: [https://dreamy-kare-ccc815.netlify.app](https://dreamy-kare-ccc815.netlify.app)
+- Live Site URL: [https://determined-haibt-e96ab9.netlify.app](https://determined-haibt-e96ab9.netlify.app)
 
 
 ### Built with
